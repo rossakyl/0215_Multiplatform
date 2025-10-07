@@ -1,4 +1,5 @@
-n =int(input("Masukkan nilai n: "))
+n = int(input("Masukkan nilai n: "))
+
 
 print("Desain pola:")
 for i in range(1, n + 1):
